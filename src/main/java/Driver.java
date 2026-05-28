@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class Driver {
 
     // CODE SMELL: field tidak dipakai (dead code)
